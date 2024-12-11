@@ -1,0 +1,15 @@
+{
+  "originHash" : "0ff3ea499f28aed6a8ee6eac0a709e4729abc6be0f3ea2b88ffdc3fefd1f1059",
+  "pins" : [
+    {
+      "identity" : "flexijsoncoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Forgwhiz/FlexiJSONCoder",
+      "state" : {
+        "revision" : "fdd0211b993285893e52ecdabccddb306ffcffa7",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
